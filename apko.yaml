@@ -6,7 +6,8 @@ contents:
     - ca-certificates
     # TODO: Add packages here:
     # - busybox # add a shell (or bash, etc.)
-    # - python3 # add a language runtime (or ruby-3.2, nodejs, etc.)
+    - python3 # add a language runtime (or ruby-3.2, nodejs, etc.)
+    - ffmpeg
     # - sqlite  # add a database (or postgres, mariadb, etc.)
 
 # Run the image as a non-root user by default.
